@@ -1,4 +1,4 @@
-# Learing-git
+# Learning-git
 This is for my learning
 <br>
 Name - Ankit Verma 
